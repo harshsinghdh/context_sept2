@@ -1,0 +1,10 @@
+.navb{
+    display: flex;
+    justify-content: space-between;
+}.btna{
+    background-color: blue;
+    border-radius: 15px;
+    height: 30px;
+    width: auto;
+    color: white;
+}
